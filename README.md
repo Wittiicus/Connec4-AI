@@ -1,1 +1,1 @@
-# Connec4-AI
+# Connect4-AI
