@@ -6,3 +6,7 @@ This project allows for two player to play connect-4 locally, as well on their o
 ## Future Modifications
 
 Future modifications are to improve this projects user interface and to provide a web based component
+
+## Languages Used
+
+Java
